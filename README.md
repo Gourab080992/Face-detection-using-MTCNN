@@ -4,6 +4,6 @@ A simple yet powerful use case is shown in the repo .
 
 This repository consits codes for Facial Detecton Using MTCNN library. There are two codes in this repository :
 
-Facial Detection in Images. This code is capable of detecting a single face or multiple faces in Images.
-Facial Detection in Video. This code is capable of detecting a single face or multiple faces in a video feed.
+1)Facial Detection in Images. This code is capable of detecting a single face or multiple faces in Images.
+2)Facial Detection in Video. This code is capable of detecting a single face or multiple faces in a video feed.
 
